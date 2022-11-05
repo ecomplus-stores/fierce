@@ -24,7 +24,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "sales",
-      "title": "Selecione seu item",
+      "title": "",
       "headless": true,
       "limit": 6,
       "page": 1
