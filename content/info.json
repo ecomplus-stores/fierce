@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Pague no PIX e tenha 6% de desconto ",
+    "text": "Condições especiais para enxoval completo",
     "title": ""
   },
   "exchange": {
@@ -14,6 +14,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Condições especiais para primeiro enxoval de loja"
+    "text": "Pague no PIX e tenha 6% de desconto"
   }
 }
