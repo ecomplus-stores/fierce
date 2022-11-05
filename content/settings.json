@@ -1,7 +1,7 @@
 {
   "domain": "fierce.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#344a32",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -9,16 +9,16 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/fierce",
   "logo": "/img/uploads/logo-fierce-png.png",
-  "name": "Compre Acrílicos ",
+  "name": "Compre Acrílico ",
   "short_name": "Compre Acrílicos Fierce ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#577844",
   "icon": "/img/icon.png",
   "store_id": 51332,
   "description": "Contatos\n(11) 98775-7021\nfierce@fierce.com.br\nRua Quinze de Novembro, 1511 - Centro - Jundiaí, SP\nCEP: 13201-305",
