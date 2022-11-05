@@ -9,11 +9,11 @@
     "title": ""
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Condições especiais para primeiro enxoval de loja"
   }
 }
